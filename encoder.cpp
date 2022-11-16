@@ -1,4 +1,17 @@
 /*
+
+   ============================================================================
+                           ¡¡D I S C L A I M E R!!
+   ============================================================================
+   Estas a punto de leer el codigo más perro puerco de tu vida
+   si por alguna razón lo llegas a leer sientete libre de
+   mentarme la madre o enviarme una critica constructiva a:
+   
+                            Caffeine.Snorter@gmail.com
+                            
+  ==============================================================================
+  ==============================================================================
+  
    encoder.cpp - Libreria para operar un encoder rotativo tipo potenciometro.
    Creada por CaffeineSnorter
 */
