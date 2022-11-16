@@ -1,0 +1,15 @@
+# Syntax Coloring Map For encoder
+
+# Datatypes (KEYWORD1)
+encoder	KEYWORD1
+Contador	KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+isTurning	KEYWORD2
+isTurningDir	KEYWORD2
+cuenta	KEYWORD2
+switchWasPressed	KEYWORD2
+
+
+
