@@ -13,7 +13,7 @@
   ==============================================================================
   
    encoder.cpp - Libreria para operar un encoder rotativo tipo potenciometro.
-   Creada por CaffeineSnorter
+   Creada por CaffeineSnorter & Puch
 */
 
 #include "encoder.h"
